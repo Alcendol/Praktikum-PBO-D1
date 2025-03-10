@@ -32,7 +32,8 @@
     *Ketika eksepsi terjadi, apakah baris 12 pada AngkaSial.java di atas dieksekusi? 
     *   Apakah baris 21 pada AngkaSial.java di atas dieksekusi? 
     Jelaskan pada lembar praktikum anda ! 
+    Pada modul Baris 21 mengacu pada baris catch (AngkaSialException ase)
 
  * JAWABAN :
- * baris as.cobaAngka(12); tidak dieksekusi karena baris sebelumnya sudah terjadi exception
+ * baris 21 pada AngkaSial.java di atas dieksekusi karena terjadi exception pada baris as.cobaAngka(13);
  */
