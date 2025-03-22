@@ -1,5 +1,10 @@
 package Pertemuan5;
 import java.time.LocalDate;
+/*
+ * Nama File    : Pegawai.java
+ * Pembuat      : Pramudya Jati Pamungkas / 24060123140180
+ * Tanggal      : 22 Maret 2025
+ */
 
 public class PNS extends Manusia implements Pajak {
     /*========== Atribut ========== */
