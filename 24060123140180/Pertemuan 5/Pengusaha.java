@@ -1,4 +1,9 @@
 package Pertemuan5;
+/*
+ * Nama File    : Pengusaha.java
+ * Pembuat      : Pramudya Jati Pamungkas / 24060123140180
+ * Tanggal      : 22 Maret 2025
+ */
 import java.time.LocalDate;
 public class Pengusaha extends Manusia implements Pajak {
     /*========== Atribut ========== */
