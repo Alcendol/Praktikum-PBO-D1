@@ -1,3 +1,9 @@
+/*
+ * Nama File    : PNS.java
+ * Deskripsi    : Kelas yang merepresentasikan PNS dan menghitung pajak serta masa kerja
+ * Pembuat      : Nadzif Silakhudin / 240601230105
+ * Tanggal      : 22 Maret 2025
+ */
 import java.time.Period;
 import java.time.LocalDate;
 

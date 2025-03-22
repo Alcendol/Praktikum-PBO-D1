@@ -1,3 +1,9 @@
+/*
+ * Nama File    : Pengusaha.java
+ * Deskripsi    : Kelas yang merepresentasikan pengusaha dan menghitung pajak serta masa kerja
+ * Pembuat      : Nadzif Silakhudin / 24060123130105
+ * Tanggal      : 22 Maret 2025
+ */
 import java.time.LocalDate;
 import java.time.Period;
 public class Pengusaha extends Manusia implements Pajak{

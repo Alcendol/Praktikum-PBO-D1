@@ -1,14 +1,20 @@
+/*
+ * Nama File    : Manusia.java
+ * Deskripsi    : Abstrak manusia
+ * Pembuat      : Nadzif Silakhudin / 240601230105
+ * Tanggal      : 22 Maret 2025
+ */
 import java.text.DecimalFormat;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
 public abstract class Manusia {
     
-    private String nama;
-    private LocalDate tgl_mulai_kerja;
-    private String alamat;
-    private double pendapatan;
-    private static int counterMns = 0;
+    protected String nama;
+    protected LocalDate tgl_mulai_kerja;
+    protected String alamat;
+    protected double pendapatan;
+    protected static int counterMns = 0;
 
     public Manusia() {
         this.nama = "";

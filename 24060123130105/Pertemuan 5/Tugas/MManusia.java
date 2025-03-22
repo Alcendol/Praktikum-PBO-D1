@@ -1,3 +1,9 @@
+/*
+ * Nama File    : MManusia.java
+ * Deskripsi    : Program utama untuk mengelola objek manusia
+ * Pembuat      : Nadzif Silakhudin / 240601230105
+ * Tanggal      : 22 Maret 2025
+ */
 public class MManusia {
     public static void main(String[] args) {
         PNS p1 = new PNS("Satriyo", "01-04-2006", "Jl. Seroja", 15000000, "198302032006041002");

@@ -1,3 +1,9 @@
+/*
+ * Nama File    : Petani.java
+ * Deskripsi    : Kelas yang merepresentasikan petani
+ * Pembuat      : Nadzif Silakhudin / 24060123130105
+ * Tanggal      : 22 Maret 2025
+ */
 import java.time.LocalDate;
 import java.time.Period;
 
