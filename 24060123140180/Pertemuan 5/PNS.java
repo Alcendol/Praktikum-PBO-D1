@@ -1,7 +1,7 @@
 package Pertemuan5;
 import java.time.LocalDate;
 /*
- * Nama File    : Pegawai.java
+ * Nama File    : PNS.java
  * Pembuat      : Pramudya Jati Pamungkas / 24060123140180
  * Tanggal      : 22 Maret 2025
  */
