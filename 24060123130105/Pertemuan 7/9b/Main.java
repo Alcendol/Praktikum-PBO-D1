@@ -1,4 +1,9 @@
-
+/*
+ * Nama : Nadzif Silakhudin
+ * NIM : 24060123130105
+ * Nama File : Main.java
+ * Tanggal : 27 April 2025
+ */
 public class Main {
     public static void main(String[] args) {
         Anabul anabul = new Anjing("Doggo");

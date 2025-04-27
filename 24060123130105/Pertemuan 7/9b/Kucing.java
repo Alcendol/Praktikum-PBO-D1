@@ -1,4 +1,9 @@
-
+/*
+ * Nama : Nadzif Silakhudin
+ * NIM : 24060123130105
+ * Nama File : Kucing.java
+ * Tanggal : 27 April 2025
+ */
 public class Kucing extends Anabul {
 
 

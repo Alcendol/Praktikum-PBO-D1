@@ -1,3 +1,9 @@
+/*
+ * Nama : Nadzif Silakhudin
+ * NIM : 24060123130105
+ * Nama File : Test Polimorfisme.java
+ * Tanggal : 27 April 2025
+ */
 import java.util.ArrayList;
 
 public class TestPolimorfisme {
