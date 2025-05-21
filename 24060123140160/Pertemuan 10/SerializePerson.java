@@ -20,7 +20,7 @@ public class SerializePerson {
                  new ObjectOutputStream(new FileOutputStream("person.ser"))) {
 
             oos.writeObject(p);
-            System.out.println("Selesai menulis objek person");
+            System.out.println("Selesai nulisin objek person");
 
         } catch (IOException e) {
             e.printStackTrace();
