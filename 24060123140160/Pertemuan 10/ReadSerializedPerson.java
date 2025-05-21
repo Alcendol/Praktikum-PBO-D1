@@ -15,7 +15,7 @@ public class ReadSerializedPerson {
                  new ObjectInputStream(new FileInputStream("person.ser"))) {
 
             data = (Person) ois.readObject();
-            System.out.println("Serialized person name = " + data.getName());
+            System.out.println("serialized the person name = " + data.getName());
 
         } catch (Exception e) {
             e.printStackTrace();
