@@ -1,4 +1,4 @@
-package jdbc.model;
+package ondi.model;
 
 /**
  * @author ondisihom
