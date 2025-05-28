@@ -293,7 +293,8 @@ public class JFrameUtama extends javax.swing.JFrame {
             mhs.setId(id);
             mhs.setNama(nama);
             service.update(mhs);
-            // Sinkronkan ulang seluruh list dari database
+            // Sinkro
+            
             idModel.clear();
             namaModel.clear();
             List<Mahasiswa> listMhs = service.getAll();
