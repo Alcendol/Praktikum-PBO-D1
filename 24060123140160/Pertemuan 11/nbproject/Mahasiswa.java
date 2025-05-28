@@ -1,20 +1,13 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package jdbc.model;
+package ondi.model;
 
 /**
- * @author mfirz
+ * @author ondisihom
  */
 public class Mahasiswa {
-    // atribut
     private int id;
     private String nama;
     
-    // konstruktor
     public Mahasiswa() {
-        // default constructor
     }
     
     public Mahasiswa(int id, String nama) {
@@ -22,7 +15,6 @@ public class Mahasiswa {
         this.nama = nama;
     }
     
-    // getter and setter
     public int getId() {
         return id;
     }
